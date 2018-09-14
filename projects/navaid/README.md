@@ -4,6 +4,8 @@
 
 Change direction to the folder you extracted the navaid project in.
 `cd navaid`
+
+ # Unzip the StereoVision file
 `cd StereoVision`
 `pip install -e .`
 `cd ..`
